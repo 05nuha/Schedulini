@@ -1,1 +1,3 @@
 # Schedulini
+
+Schedulini is a lightweight AI-powered assistant that helps students plan their university schedules with ease. Using browser automation, Schedulini extracts real-time course offerings—including timings, instructors, and course codes—from the CUD portal. Students can then interact with the app through a chat interface to ask natural language questions like “Show me all second-year courses” or “Who’s teaching Operating Systems?”. Built with Streamlit and powered by either Gemini (cloud) or Ollama (local) LLMs, Schedulini combines smart automation with intuitive querying to make course selection simple, fast, and stress-free.
